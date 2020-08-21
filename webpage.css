@@ -1,0 +1,17 @@
+/* Css Document*/
+#google-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+#google-searchbar{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 300px;
+}
+h1{
+    align-content: center;
+    color: red;
+}
